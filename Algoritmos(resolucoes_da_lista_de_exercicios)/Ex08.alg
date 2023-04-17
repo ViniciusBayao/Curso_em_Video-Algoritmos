@@ -1,5 +1,10 @@
 algoritmo "Distance_meters"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    d, km , hm, dam, m, dm, cm , mm: real
 inicio

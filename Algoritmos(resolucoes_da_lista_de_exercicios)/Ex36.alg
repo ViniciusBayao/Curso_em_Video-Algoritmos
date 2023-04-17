@@ -1,5 +1,10 @@
 algoritmo "Health_Life"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    qtd_horas, qtd_pontos: inteiro
    qtd_dinheiro: real

@@ -1,5 +1,10 @@
 algoritmo "vet_int_10_cl"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    v: vetor[0..9] de inteiro
    i, c: inteiro

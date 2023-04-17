@@ -1,5 +1,10 @@
 algoritmo "Work_calculator"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    qt_dias: inteiro
    sal: real

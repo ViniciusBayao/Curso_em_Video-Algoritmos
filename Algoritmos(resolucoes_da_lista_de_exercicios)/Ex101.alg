@@ -1,5 +1,10 @@
 algoritmo "Matriz_visualg"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    valor: vetor[1..3, 1..3] de inteiro
    l, c: inteiro

@@ -1,5 +1,10 @@
 algoritmo "Altura_peso_user_calc"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont, S1, S2, S3: inteiro
    S_altura, peso, altura, Med_altura_grupo: real

@@ -1,5 +1,10 @@
 algoritmo "Funcionario_empresa_sal_aum"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    nome_func: caractere
    sal_func, novo_sal_func: real

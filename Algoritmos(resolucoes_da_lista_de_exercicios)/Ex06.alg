@@ -1,5 +1,10 @@
 algoritmo "Number_before_after"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    n1, a, s: inteiro
 inicio

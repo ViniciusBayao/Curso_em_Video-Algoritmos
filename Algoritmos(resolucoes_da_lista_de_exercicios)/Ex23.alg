@@ -1,5 +1,10 @@
 algoritmo "Desconto_esp"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    nome, sexo: caractere
    preco, desc:real

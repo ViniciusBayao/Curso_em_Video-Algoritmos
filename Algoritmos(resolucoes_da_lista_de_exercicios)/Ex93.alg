@@ -1,5 +1,10 @@
 algoritmo "Proced_cont_incr_valor"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    v1, vn, i: inteiro
 Procedimento Contador(ni, nf, c: inteiro)

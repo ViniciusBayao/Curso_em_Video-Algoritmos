@@ -1,5 +1,10 @@
 algoritmo "Rent_a_car_calc"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    tipo_carro, dias_aluguel, Preco_dias: inteiro
    Km, Preco_total: real

@@ -1,5 +1,10 @@
 algoritmo "Func_expone_valor"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    base, expoente: inteiro
    Ex: real

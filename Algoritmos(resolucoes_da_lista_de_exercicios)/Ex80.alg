@@ -1,5 +1,10 @@
 algoritmo "Vet_numero_Qtd_int"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    v: vetor[1..30] de inteiro
    i, chave, Qtd: inteiro

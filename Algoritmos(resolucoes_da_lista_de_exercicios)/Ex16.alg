@@ -1,5 +1,10 @@
 algoritmo "Smokers"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    qtd_cigarros, anos_cigarro, dias_cig, mn, mn_dia, cigarros_cons: inteiro
    Tot_cigarros, Tot_dias: real

@@ -1,5 +1,10 @@
 algoritmo "Cont_Inter_usuario"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont, valor_inicial, valor_final, incremento : inteiro
 inicio

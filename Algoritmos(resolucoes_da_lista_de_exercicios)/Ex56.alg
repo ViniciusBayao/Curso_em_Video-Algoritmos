@@ -1,5 +1,10 @@
 algoritmo "Valores_teclado_progr"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
  S, num: inteiro
 inicio

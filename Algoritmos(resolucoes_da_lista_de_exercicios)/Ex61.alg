@@ -1,5 +1,10 @@
 algoritmo "Cont_3_Estr"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    valor: inteiro
 inicio

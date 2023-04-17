@@ -1,5 +1,10 @@
 algoritmo "Vet_15_mult_10"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    vet: vetor[1..15] de inteiro
    i, valor: inteiro

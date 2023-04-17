@@ -1,5 +1,10 @@
 algoritmo "Cont_multi_inter_user_pr"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    i, valor, valor_multiplicado: inteiro
 inicio

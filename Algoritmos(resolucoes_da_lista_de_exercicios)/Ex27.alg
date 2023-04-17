@@ -1,5 +1,10 @@
 algoritmo "Aluno_md"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    nota1, nota2, media: real
 inicio

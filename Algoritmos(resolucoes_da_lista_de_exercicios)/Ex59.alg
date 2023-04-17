@@ -1,5 +1,10 @@
 algoritmo "People_Flag"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    idade, Maior, Menor, SM, SI_homens, cont:inteiro
    Sx, valor: caractere

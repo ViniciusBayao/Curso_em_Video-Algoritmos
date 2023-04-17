@@ -1,5 +1,10 @@
 algoritmo "Analise_users_flag"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    nome, sexo, op, Maior_idade, Menor_idade: caractere
    idade, S, Maior, menor, cont, Qtd_mulher18, Qtd_homens30, qtd_pessoas, STot_idade :inteiro

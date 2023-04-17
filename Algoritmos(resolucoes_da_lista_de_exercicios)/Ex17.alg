@@ -1,5 +1,10 @@
 algoritmo "Velocity_car"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    vel_car: inteiro
    valor_multa: real

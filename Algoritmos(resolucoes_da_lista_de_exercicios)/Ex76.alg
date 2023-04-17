@@ -1,5 +1,10 @@
 algoritmo "Vet_rand"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    vet: vetor[1..7] de inteiro
    i: inteiro

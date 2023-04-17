@@ -1,5 +1,10 @@
 algoritmo "Cont_valor_usuario"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont, valor: inteiro
 inicio

@@ -1,5 +1,10 @@
 algoritmo "Advn_user_int"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
     cont, Num_randomico, Num_escolhido: inteiro
 inicio

@@ -1,5 +1,10 @@
 algoritmo "Orden_vet_aleat_"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    vet: vetor[1..20] de inteiro
    i, j, aux: inteiro

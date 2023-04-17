@@ -1,5 +1,10 @@
 algoritmo "Contador_crescente"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont, x: inteiro
 inicio

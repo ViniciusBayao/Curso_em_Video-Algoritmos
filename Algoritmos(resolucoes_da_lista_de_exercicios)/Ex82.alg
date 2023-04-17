@@ -1,5 +1,10 @@
 algoritmo "Vet_nota_alunos"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    nota: vetor[1..10] de real
    i, qtd_maior_media, Maior_indice: inteiro

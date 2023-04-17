@@ -1,5 +1,10 @@
 algoritmo "Proced_Par_impar_"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    num: inteiro
 Procedimento ParouImpar (valor: inteiro)

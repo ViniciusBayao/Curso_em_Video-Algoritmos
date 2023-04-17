@@ -1,5 +1,10 @@
 algoritmo "Func_sit_aluno"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    nota1 ,nota2, Media_tot : real
    Res_sit: caractere

@@ -1,5 +1,10 @@
 algoritmo "Func_Super_s"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    P1, Pn, Soma: inteiro
    

@@ -1,5 +1,10 @@
 algoritmo "IMC"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    peso, altura, imc: real
 inicio

@@ -1,5 +1,10 @@
 algoritmo "Cont_Enq_int_usr"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont, valor, Maior, Menor, STot, Spar: inteiro
    Op: caractere

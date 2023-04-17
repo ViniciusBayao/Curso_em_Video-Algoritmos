@@ -1,5 +1,10 @@
 algoritmo "Cont_soma_par_impar"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    valor, cont, S_impar, S_par: inteiro
 inicio

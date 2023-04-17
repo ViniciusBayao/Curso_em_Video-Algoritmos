@@ -1,5 +1,10 @@
 algoritmo "Par_impar"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    n: inteiro
 inicio

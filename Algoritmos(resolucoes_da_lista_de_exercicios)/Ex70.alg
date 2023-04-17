@@ -1,5 +1,10 @@
 algoritmo "Fibonacci_Sequ"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont, Primeiro_termo, Segundo_termo, Proximo_termo: inteiro
 inicio

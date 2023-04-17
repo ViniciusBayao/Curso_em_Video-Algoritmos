@@ -1,5 +1,10 @@
 algoritmo "Cont_Pr_inter_user"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    i: inteiro
 inicio

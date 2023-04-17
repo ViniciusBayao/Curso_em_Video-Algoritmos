@@ -1,5 +1,10 @@
 algoritmo "Vet_15_par"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    vet: vetor[1..10] de inteiro
    c, valor: inteiro

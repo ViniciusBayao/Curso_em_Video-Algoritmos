@@ -1,5 +1,10 @@
 algoritmo "Car_rent"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
  km, qt_dias, preco_tot: real
 inicio

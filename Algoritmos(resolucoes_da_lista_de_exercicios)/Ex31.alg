@@ -1,5 +1,10 @@
 algoritmo "Jokenpo"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    choice1, choice2: caractere
 inicio

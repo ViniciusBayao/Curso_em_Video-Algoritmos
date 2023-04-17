@@ -1,5 +1,10 @@
 algoritmo "Welcome_user"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    name: caractere
 inicio

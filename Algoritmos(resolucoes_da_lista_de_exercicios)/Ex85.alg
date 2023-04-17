@@ -1,5 +1,10 @@
 algoritmo "Vet_comp_sal_gn"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    nome: vetor[1..5] de caractere
    salario: vetor[1..5] de real

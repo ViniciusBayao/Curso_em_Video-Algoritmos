@@ -1,5 +1,10 @@
 algoritmo "Func_media_aluno"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    nota1, nota2, Md: real
    

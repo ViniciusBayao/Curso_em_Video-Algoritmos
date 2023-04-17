@@ -1,5 +1,10 @@
 algoritmo "Func_sal_empres"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// ============================================================
 var
    sal_atual, novo_sal: real
    genero_func: caractere

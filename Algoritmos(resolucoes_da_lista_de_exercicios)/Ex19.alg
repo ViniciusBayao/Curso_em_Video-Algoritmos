@@ -1,5 +1,10 @@
 algoritmo "Aluno_nota_desempenho"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    nome_aluno: caractere
    nota1, nota2, media: real

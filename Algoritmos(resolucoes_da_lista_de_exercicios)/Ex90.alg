@@ -1,5 +1,10 @@
 algoritmo "Proced_sum_2_numbers"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    v1, v2: inteiro
    

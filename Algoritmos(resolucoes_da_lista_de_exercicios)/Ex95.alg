@@ -1,5 +1,10 @@
 algoritmo "Func_valor_escop"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    v1, v2, SomaTot: inteiro
 Funcao Somador(x1, x2: inteiro): inteiro

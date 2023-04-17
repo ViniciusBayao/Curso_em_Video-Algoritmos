@@ -1,5 +1,10 @@
 algoritmo "Vet_comp_id_usuer"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    idade: vetor[1..9] de inteiro
    nome: vetor[1..9] de caractere

@@ -1,5 +1,10 @@
 algoritmo "Proc_vari_num"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    c: caractere
    valor, valor_borda: inteiro

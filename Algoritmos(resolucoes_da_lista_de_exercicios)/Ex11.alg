@@ -1,5 +1,10 @@
 algoritmo "Funcao_seggrau"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    a, b, c, d: real
 inicio

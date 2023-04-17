@@ -1,5 +1,10 @@
 algoritmo "Comprimento_terreno"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    largura, comprimento, A : real
 inicio

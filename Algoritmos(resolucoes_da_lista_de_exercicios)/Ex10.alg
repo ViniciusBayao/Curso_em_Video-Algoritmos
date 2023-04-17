@@ -1,5 +1,10 @@
 algoritmo "width_height_paint"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    l, a : inteiro
    area , q_tinta: real

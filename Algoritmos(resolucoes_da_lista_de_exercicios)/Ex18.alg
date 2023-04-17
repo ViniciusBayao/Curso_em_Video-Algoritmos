@@ -1,5 +1,10 @@
 algoritmo "Votacao"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    ano_nasc, idade: inteiro
 inicio

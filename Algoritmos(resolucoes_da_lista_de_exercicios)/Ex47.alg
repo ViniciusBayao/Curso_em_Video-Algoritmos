@@ -1,5 +1,10 @@
 algoritmo "Cont_soma_dec"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    valor_inicial, S: inteiro
 inicio

@@ -1,5 +1,10 @@
 algoritmo "Alunos_idade_soma_flag"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    idade, S, Soma_idade: inteiro
    Media_idade: real

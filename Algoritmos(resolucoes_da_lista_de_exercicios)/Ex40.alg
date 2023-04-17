@@ -1,5 +1,10 @@
 algoritmo "Cont_som_3"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont: inteiro
 inicio

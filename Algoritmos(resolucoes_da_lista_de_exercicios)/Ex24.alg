@@ -1,5 +1,10 @@
 algoritmo "Preco_Pass"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    dist_km, preco_pass: real
 inicio

@@ -1,5 +1,10 @@
 algoritmo "Triangulo"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    l1, l2, l3: inteiro
 inicio

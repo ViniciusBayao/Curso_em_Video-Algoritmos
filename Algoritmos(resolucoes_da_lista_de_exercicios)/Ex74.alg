@@ -1,5 +1,10 @@
 algoritmo "Vet_int_10_2_numbers"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    vet: vetor[0..9] de inteiro
    i, c1, c2: inteiro

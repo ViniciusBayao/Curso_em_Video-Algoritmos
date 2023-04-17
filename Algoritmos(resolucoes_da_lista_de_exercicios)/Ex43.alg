@@ -1,5 +1,10 @@
 algoritmo "Cont_multipl_4"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont: inteiro
 inicio

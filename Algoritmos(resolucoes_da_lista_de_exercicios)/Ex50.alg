@@ -1,5 +1,10 @@
 algoritmo "Aleat_S"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont, Num_aleato, S3, S5: inteiro
 inicio

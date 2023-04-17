@@ -1,5 +1,10 @@
 algoritmo "vet_int_fibonacci"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    vet: vetor[0..15] de inteiro
    i, v1, v2, v3: inteiro

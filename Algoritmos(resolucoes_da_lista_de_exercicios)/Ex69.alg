@@ -1,5 +1,10 @@
 algoritmo "P.A.pr"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    i, primeiro, decimo, razao, STot: inteiro
 inicio

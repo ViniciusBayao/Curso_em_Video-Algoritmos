@@ -1,5 +1,10 @@
 algoritmo "Maior_numero"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    n1, n2: inteiro
 inicio

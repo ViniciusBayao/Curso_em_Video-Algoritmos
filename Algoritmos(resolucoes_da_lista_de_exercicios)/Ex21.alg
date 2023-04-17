@@ -1,5 +1,10 @@
 algoritmo "Ano_bissexto"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    ano_atual: inteiro
 inicio

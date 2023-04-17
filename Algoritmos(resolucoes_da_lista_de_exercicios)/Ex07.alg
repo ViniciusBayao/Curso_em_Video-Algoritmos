@@ -1,5 +1,10 @@
 algoritmo "Double_number"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    n, d, t: real
 inicio

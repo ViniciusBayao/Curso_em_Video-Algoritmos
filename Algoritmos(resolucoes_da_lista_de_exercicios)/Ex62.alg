@@ -1,5 +1,10 @@
 algoritmo "idade_inter_user_"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    idade, Qtd_idades, S_idades, Qtd_pessoas21: inteiro
    Media_idades: real

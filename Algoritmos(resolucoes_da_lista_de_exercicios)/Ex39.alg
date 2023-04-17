@@ -1,4 +1,10 @@
 algoritmo "Contador_dec"
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont: inteiro
 inicio

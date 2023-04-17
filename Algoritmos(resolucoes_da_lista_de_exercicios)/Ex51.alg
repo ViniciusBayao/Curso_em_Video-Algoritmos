@@ -1,5 +1,10 @@
 algoritmo "Leitor_preco"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont: inteiro
    valor, Menor, Maior: real

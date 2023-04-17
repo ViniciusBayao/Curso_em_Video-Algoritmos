@@ -1,5 +1,10 @@
 algoritmo "Aleat_S_inter"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    Num_aleato, Num_user: inteiro
 inicio

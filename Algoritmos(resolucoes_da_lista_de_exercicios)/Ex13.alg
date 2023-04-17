@@ -1,5 +1,10 @@
 algoritmo "New_salary"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    sal, novo_sal: real
 inicio

@@ -1,5 +1,10 @@
 algoritmo "Triangulo_Complt"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    s1, s2, s3: inteiro
 inicio

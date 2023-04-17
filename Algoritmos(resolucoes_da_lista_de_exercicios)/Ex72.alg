@@ -1,5 +1,10 @@
 algoritmo "Vetor_int_valor_10"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    vet: vetor[0..9] de inteiro
    c, i: inteiro

@@ -1,5 +1,10 @@
 algoritmo "Cont_pr_int_user_M_H"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    i, QtdTotM, QtdTotH, QtdH100: inteiro
    peso, Media_peso_mulher, Speso_mulher, Speso_homem, Media_peso_homem: real

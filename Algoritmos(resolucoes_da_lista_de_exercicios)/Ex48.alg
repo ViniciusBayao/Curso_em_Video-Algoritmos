@@ -1,5 +1,10 @@
 algoritmo "Cont_soma_inter"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    valor, S, cont: inteiro
 inicio

@@ -1,5 +1,10 @@
 algoritmo "Loan"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    valor_casa, sal_comprador, prest_mens, mensal: real
    qtd_anos_pag: inteiro

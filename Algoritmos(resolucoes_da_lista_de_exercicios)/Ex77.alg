@@ -1,5 +1,10 @@
 algoritmo "Vet_names"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    nome: caractere
    vet: vetor[1..7] de caractere

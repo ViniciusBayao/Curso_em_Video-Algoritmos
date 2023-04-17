@@ -1,5 +1,10 @@
 algoritmo "Vetor_exc_preenc_"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    v: vetor[0..7] de inteiro
    cont, i: inteiro

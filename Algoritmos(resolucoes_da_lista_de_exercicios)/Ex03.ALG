@@ -1,5 +1,10 @@
 algoritmo "Salary_Employee"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    name: caractere
    Sal: real

@@ -1,5 +1,10 @@
 algoritmo "Func_Maior_valor"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    v1, v2, v3, M: inteiro
    

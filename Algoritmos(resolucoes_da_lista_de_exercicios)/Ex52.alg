@@ -1,5 +1,10 @@
 algoritmo "10_age_people"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont, idade, Si, S5, S18, Maior: inteiro
    Media: real

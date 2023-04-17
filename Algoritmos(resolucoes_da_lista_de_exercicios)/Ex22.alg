@@ -1,5 +1,10 @@
 algoritmo "Alist_idade"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    ano_nasc, idade, S1, S2: inteiro
 inicio

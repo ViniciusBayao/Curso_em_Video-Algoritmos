@@ -1,5 +1,10 @@
 algoritmo "Sal_H_M_int"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    valor, sx: caractere
    SM, SF, salario: real

@@ -1,5 +1,10 @@
 algoritmo "Progr_calc_id"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    cont, SiTot, S_fem, S_fem20, S_masc, Si_masc, Media_homens, idade: inteiro
    genero: caractere

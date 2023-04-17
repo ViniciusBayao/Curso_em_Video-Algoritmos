@@ -1,5 +1,10 @@
 algoritmo "Proc_paramet_2"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    valor: inteiro
    c: caractere

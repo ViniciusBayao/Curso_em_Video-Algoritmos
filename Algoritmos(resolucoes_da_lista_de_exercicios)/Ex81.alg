@@ -1,5 +1,10 @@
 algoritmo "Vet_media_id_"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    v: vetor[1..8] de inteiro
    indice, Maior, Maior25, Menor, idade, STot, Qtdtot, Maior_indice: inteiro

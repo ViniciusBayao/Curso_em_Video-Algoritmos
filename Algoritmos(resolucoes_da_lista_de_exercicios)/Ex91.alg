@@ -1,5 +1,10 @@
 algoritmo "Proced_maior_numer_comp"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    v1, v2: inteiro
 Procedimento Maior(x1, x2: inteiro)

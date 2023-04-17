@@ -1,5 +1,10 @@
 algoritmo "Proced_Fibonacci_parametr"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    Qtd: inteiro
 Procedimento Fibonacci(cont: inteiro)

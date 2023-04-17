@@ -1,5 +1,10 @@
 algoritmo "Money_conversion"
-
+// =============================================================
+//
+//
+// AUTOR: Vinicius Bayão
+// Curso: Algoritmos(Curso em Vídeo)
+// =============================================================
 var
    D, R : real
 inicio
